@@ -3,19 +3,12 @@
 <!--
 **jyoti-2/jyoti-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
 - 🔭 I’m currently working on the development with MERN tech stacks.
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate on a Full Stack Web development project.
 - 💬 Ask me about Web Development.
 - 😄 Pronouns: she / her
-
-## 📫 How to reach me: 
-
-[![linkedin: celinauemura](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-kumari2/) 
-
-
+- 📫 How to reach me:  [![linkedin: celinauemura](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-kumari2/) 
 ## 💻 Skills:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,11 +20,9 @@
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
 ## :pushpin: My GitHub Stats
 
 [![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoti-2&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## :sparkles: My Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti-2&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
