@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on the development with MERN tech stacks.
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate on a Full Stack Web development project.
-- 💬 Ask me about Web Development.
-- 😄 Pronouns: she / her
+- 💬 Ask me about Web Development, Data Structure and Algorithms.
+- 😄 Pronouns: She / Her
 - 📫 How to reach me:  [![linkedin: celinauemura](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-kumari2/) 
 ## 💻 Skills:
 
