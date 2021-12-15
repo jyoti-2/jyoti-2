@@ -11,7 +11,9 @@
 - 💬 Ask me about Web Development.
 - 😄 Pronouns: she / her
 
-### 📫 How to reach me: [![linkedin: celinauemura](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-kumari2/)
+## 📫 How to reach me: 
+
+[![linkedin: celinauemura](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-kumari2/) 
 
 
 ## 💻 Skills:
@@ -27,4 +29,9 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
+[![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoti-2&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoti-2&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti-2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
