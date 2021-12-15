@@ -24,14 +24,17 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
+## :pushpin: My GitHub Stats
 
 [![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoti-2&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoti-2&count_private=true)
+## :sparkles: My Top Languages
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti-2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti-2&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
