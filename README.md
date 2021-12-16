@@ -20,9 +20,20 @@
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 ## :pushpin: My GitHub Stats
 
-[![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoti-2&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jyoti-2&show_icons=true&theme=tokyonightrepo=github-readme-stats" />
+</a>
+
 ## :sparkles: My Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti-2&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jyoti-2&show_icons=true&theme=tokyonightrepo=convoychat" />
+</a>
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyoti-2&repo=github-readme-stats&show_owner)](https://github.com/anuraghazra/github-readme-stats)
+
