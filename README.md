@@ -22,6 +22,20 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ## :pushpin: My GitHub Stats
+[![Jyoti's GitHub stats]<a href = "https://github-readme-stats.vercel.app/api?username=jyoti-2&show_icons=true&theme=tokyonight">]
+  <img align="center" src= "https://github.com/anuraghazra/github-readme-stats"/>
+  </a>
+
+## :sparkles: My Top Languages
+
+[![Top Langs]<a href= "https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti-2&layout=compact&show_icons=true&theme=tokyonight">]<img align="center" src= "https://github.com/anuraghazra/github-readme-stats"/>
+  </a>
+
+
+
+
+
+## :pushpin: My GitHub Stats
 [![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoti-2&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :sparkles: My Top Languages
